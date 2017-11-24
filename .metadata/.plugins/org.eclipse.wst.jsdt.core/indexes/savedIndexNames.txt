@@ -1,0 +1,6 @@
+INDEX VERSION 1.3+/home/fabio/projetos/jsf2/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+640095509.index
+791754824.index
+3131631543.index
+507693983.index
+1645260974.index
